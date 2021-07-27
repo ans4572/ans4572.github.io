@@ -13,12 +13,12 @@ url:                 https://ans4572.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "문갱 블로그"
+# tagline:             "문갱 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  백엔드 개발자를 희망하는 개발자 지망생 블로그입니다.
+  백엔드 개발자 지망생의 블로그입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
