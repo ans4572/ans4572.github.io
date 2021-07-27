@@ -18,7 +18,7 @@ tagline:             "문갱 블로그"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  문갱의 개발자 블로그입니다.
+  백엔드 개발자를 희망하는 개발자 지망생 블로그입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.12. by 따라쟁이'
+# copyright:           '&copy; 2020.12. by 따라쟁이'
 
 # Format of the permalinks
 permalink:           
