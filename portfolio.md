@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Portfolio
+layout: about
 menu: true
 order: 1
 ---
@@ -10,116 +10,73 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+문경환
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+<center>MAJOR : Computer engineering</center>
 
-<center>Korean University</center>
-
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>Dongguk University</center>
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 1995.01.22 대한민국,서울특별시,마포구 출생
 
-> 연락처: khw11044@gmail.com
+> 연락처: ans4572@naver.com
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://github.com/ans4572">https://github.com/ans4572</a>
 
 
 ## Education
 ---
-> Mar.2015 ~ Feb.2021 한성대학교
+> Mar.2015 ~ 현재: 동국대학교
 >
-> IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
-
-> Feb.2021 ~ 현재 : 고려대학교
->
-> 인공지능 대학원 (이성한 교수님 연구실)
-
-
-## Research Interest
----
-
-* Computer Vision
-    + image Object Detection
-    + Vot
-    + Semantic/Instance Segmentation
-    + Super Resolution
-
-* Machine Learning / Deep Learning
-    + GAN
-    + Few-Shot Learning
-    + Meta Learning
+> 컴퓨터정보통신공학부 컴퓨터공학전공
 
 ## Project
 ---
 
-* **Visual Object Tracking Using Plenoptic Image Sequences**
+* **어디서 뭐하지?**
 
-과학기술정보통신부-한성대 프로젝트 : 학부생 인턴
+사용자들의  위치를 입력하면 중간 지점 계산 후 그 지점에서 할 수 있는 여러가지 활동을을 지도를 통해 보여줌으로써 모임의 일정을 정할 수 있도록 도와주는 웹 프로젝트 수행
 
-Lightfield 영상에서의 Siamease Network를 이용한 단일 객체 추적
+- node.js,  mysql,  AWS(ec2, rds),  카카오맵 
 
-* **FPV Swlf-driving RC Car**
+링크: https://github.com/jisoo449/where_shall_we_meet
 
-VR 헤드셋을 통해 FPV 카메라에서 보내는 실시간 영상을 받으며 일반인들에게 조금더 쉽고 안전하게 자율주행을 체험해보는 프로젝트 수행
+* **AR 슈팅 게임**
 
-* **Anti Drone AI Robot using object detection**
+기존에 오픈소스로 존재하던 2D Space Shooter 게임(https://github.com/lukearmstrong/unity-tutorial-space-shooter)을 유니티와 뷰포리아를 활용하여 스마트폰으로 할 수 있는 AR 게임으로 만드는 프로젝트 수행
 
-SSD를 활용한 드론 탐지프로그램으로 라즈베리파이와 3D프린터를 이용해 만든 로봇이 드론을 인식하고 pan and tilt모터 체계를 이용하여 드론 트래킹
+- 뷰포리아,  유니티
 
-* **AI Mashroom Classificator App**
+링크: https://github.com/CSID-DGU/2019-2-OSSP1-CONA-8
 
-mobileNet을 이용한 classification으로 버섯을 구별해주는 인공지능 버섯 도감 어플로서 독버섯 채취 및 섭취 방지를 위한 어플
+* **윈도우 복구 및 백업 미디어 프로그램**
 
-## Awards
----
+WindowsPE 환경에서 윈도우 백업과 복구를 하고자 할 때 사용하는 프로그램으로 기존에 cmd에서 명령어를 직접 입력해도 실행이 가능하지만 UI를 만들어 사용자가 명령어를 따로 입력하지 않고도 쉽게 사용할 수 있도록 프로그램 개발.
 
-<u><strong><a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/">**The 15th HANSUNG Engineering Competitive Exhibition[PM] 2019 </a></strong></u>
+- C++,  win32 api
 
-- BRONZE PRIZE, SPONSOR PRIZE
+* **크롬 모멘텀**
 
-<u><strong><a href="https://www.youtube.com/watch?v=5rFu7Kv_DfY&t=362s">**HANSUNG UNIVERSICY C&C FESTIVAL[PM] 2020</a></strong></u>
+노마드 코더(Nomad Coders) 초보자를 위한 바닐라 자바스크립트 강의를 보고 만든 간단한 크롬 모멘텀.
 
-- BRONZE PRIZE
+- JavaScript,  css,  Html
 
-
-<a herf="https://www.youtube.com/watch?v=Mn9Dx5xukcg&t=10s"><u><strong>**The 16th HANSUNG Engineering Competitive Exhibition[PM] 2020</strong></u></a>
-
-- SILVER PRIZE , - BRONZE PRIZE
-
-<a herf="https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s"><u><strong>2020년 공개SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원) [PM] 2020</strong></u></a>
-
-<a herf="https://blog.naver.com/khw11044/222152408161">BRONZE PRIZE</a>
-
+링크: https://github.com/ans4572/JavaScript_momonton
 ## Work Experiences
 ---
--2020. 07 – 2020. 11 Visual Object Tracking Using Plenoptic Image Sequences, 
-
-Hansung Univ – ETRI
-
-<a herf="https://github.com/khw11044/PlenOpticVot_Siamfc_2020">https://github.com/khw11044/PlenOpticVot_Siamfc_2020</a>
+-2021. 03 – 2021. 06 
+ 어드밴텍 케이알 IT 부서 인턴 
 
 
 ## Skills and Certification
 ---
--Language : Python, C/C++
+-Language : Python, C, C++, Java, JaveScript
 
--FrameWork: Pytorch, Tensorflow(Keras)
+-System: Window
 
--Certification : CCNA, Internet of Things Knowledge Certification
+-Tool: Pycharm, Visual Studio, Visual Studio Code,  IntelliJ, Git
 
-## Patents
----
-【발명의 영문명칭】: Image-based anti-drone detection device and metohd using deep learning model
-
-【출원번호】: 10-2020-0080646
-
-【출원인】: 김현우, 김태현, 제진명
-
-
-
-
+-FrameWork: Spring Boot
